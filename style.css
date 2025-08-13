@@ -105,12 +105,43 @@ header img {
     height: 270px;
     margin: 35px;
   }
-Kamilly Santos
+
 h3{
-    padding-left: 110px;
+    padding-left: 120px;
   }
 
   h6{
     padding-left: 185px;
   }
 }
+
+.Redes{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 100px;
+  img{
+    margin: 10px;
+    height: 20px;
+  }
+}
+
+.Sequencias{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   h4{
+    margin: 20px;
+   }
+}
+
+.rodape{
+  background-color: rgba(238, 232, 232, 0.937);
+  justify-content: space-between;
+  padding: 8px 20px;
+
+  h4{
+    padding-left: 500px;
+  }
+}
+
